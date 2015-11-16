@@ -1,0 +1,4 @@
+C:\aula\primeri.csharp.terminal\Hello.Aula\Hello.Aula\bin\Debug\Hello.Aula.exe
+C:\aula\primeri.csharp.terminal\Hello.Aula\Hello.Aula\bin\Debug\Hello.Aula.pdb
+C:\aula\primeri.csharp.terminal\Hello.Aula\Hello.Aula\obj\x86\Debug\Hello.Aula.exe
+C:\aula\primeri.csharp.terminal\Hello.Aula\Hello.Aula\obj\x86\Debug\Hello.Aula.pdb
